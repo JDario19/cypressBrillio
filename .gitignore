@@ -1,0 +1,20 @@
+# Dependencias de Node
+node_modules/
+# Archivos de configuración de Cypress
+cypress/videos/
+cypress/screenshots/
+# Archivos generados por Cypress al ejecutar las pruebas
+cypress/fixtures/
+# Directorios y archivos de configuración de IDEs
+.vscode/
+.idea/
+# Archivos de log
+*.log
+# Archivos de caché de Cypress
+cypress/.cache/
+# Archivos de caché de npm/yarn
+.npm/
+.yarn/
+# Archivos de entorno (en caso de que uses archivos de configuración sensibles)
+.env
+.DS_Store
